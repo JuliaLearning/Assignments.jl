@@ -1,0 +1,13 @@
+name = "Assignments"
+uuid = "f99f477c-3f6f-4fe5-9efd-4847e71f41ec"
+authors = ["Jaan Tollander de Balsch <jaan@hey.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.3"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
